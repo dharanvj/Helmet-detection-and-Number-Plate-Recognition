@@ -6,7 +6,7 @@ Required Libraries
 1.install python3.
 2.install pip3.
 3.install opencv.
-install other liberaries if missing.
+kindly check for other liberaries in requirments.txt.
 
 Yolo v3 and Non helmet file are given below link:
 yolov3-custom_7000.weights: https://drive.google.com/file/d/1riSSnwWNNYmlDNS_vS6Mn21cwkRJ-oS5/view?usp=share_link
