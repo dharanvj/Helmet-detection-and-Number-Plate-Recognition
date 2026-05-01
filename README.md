@@ -3,9 +3,13 @@ Its a simple YOLO model to detect and count the number of people wearing helmet 
 This code is very simple and with the help of little manipulation, you can count the number of detection for a particular detection. or extract the co-ordinates of bounding boxes. download the models, create necessary files and give full path to the models and folder names and run the python sc
 
 Required Libraries
+
 1.install python3.
+
 2.install pip3.
+
 3.install opencv.
+
 kindly check for other liberaries in requirments.txt.
 
 Yolo v3 and Non helmet file are given below link:
